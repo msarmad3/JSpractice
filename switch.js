@@ -12,4 +12,8 @@ switch (a) {
     break;
   default:
     alert( "I don't know such values" );
+};
+
+function ssa(){
+  console.log("helloworld");
 }
